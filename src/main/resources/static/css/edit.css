@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div{
+    margin: 10px;
+}
+
+#nav{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
